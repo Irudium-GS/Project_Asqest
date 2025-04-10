@@ -19,7 +19,7 @@ const Services = () => {
       icon: <Network className="w-12 h-12 text-[#0F0B45]" />,
       title: 'NETWORK CONSULTING',
       description: "Experienced networking consultants specialize in delivering tailored solutions for achieving unparalleled network performance and reliability.",
-      image: 'https://images.unsplash.com/photo-1551703599-6b3e8379aa8b?auto=format&fit=crop&q=80&w=800',
+      image: 'https://images.unsplash.com/photo-1558494949-ef010cbdcc31?auto=format&fit=crop&q=80&w=800',
     },
     {
       icon: <Cable className="w-12 h-12 text-[#0F0B45]" />,
